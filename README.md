@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>	
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About Me</b>
 
-<picture> <img align="right" src="https://images-ext-2.discordapp.net/external/Z71clEh5ZkoPnvHEDyOzks35lsRZhgmhr66ADRXP0jM/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/692617937512562729/2169a4f0b0685616b90cf7dc241d3dc0.webp?width=639&height=639" width = 250px></picture>
+<picture> <img align="right" src="https://images-ext-2.discordapp.net/external/Z71clEh5ZkoPnvHEDyOzks35lsRZhgmhr66ADRXP0jM/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/692617937512562729/2169a4f0b0685616b90cf7dc241d3dc0.webp?width=639&height=639" width = 150px></picture>
 
 <br>
 
